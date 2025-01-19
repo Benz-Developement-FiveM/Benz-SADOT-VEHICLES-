@@ -5,7 +5,7 @@
 - ALL FiveM ready
 
 
-Includes:
+**INCLUDES:**
 - 18 fleet vehicles
 - 2 semis
 - 4 trailers
