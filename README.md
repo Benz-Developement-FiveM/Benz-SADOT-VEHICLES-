@@ -7,6 +7,9 @@
 -----------------------------------
 
 **INCLUDES:**
-- *18* fleet vehicles
-- *2* semis
+- *7* construction
+- *7* fleet
+- *3* semis
 - *4* trailers
+--------------
+- *21* total
